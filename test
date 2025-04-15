@@ -1,4 +1,20 @@
 [
+{
+    "$id": "KL PANEL XL IP",
+    "$title": "KL PANEL XL IP",
+    "$link": "https://www.elationlighting.com/kl-panel-xl-ip",
+    "$image_link": "https://www.elationlighting.com/media/catalog/product/cache/8a69a485ebaa73aa88d1b7beb4c3d2ca/k/l/kl-20panel-20xl-20ip-2400k-51369.jpg",
+    "$description": "570W Full Spectrum RGBWLC LED IP65 Soft Light",
+    "$price": 0.0
+  },
+{
+    "$id": "KL FRESNEL 4 FC",
+    "$title": "KL FRESNEL 4 FC",
+    "$link": "https://www.elationlighting.com/kl-fresnel-4-fc",
+    "$image_link": "https://www.elationlighting.com/media/catalog/product/cache/4e48c67a5a501040b80274b6f0df5f95/k/l/kl-20fresnel-204-20fc-right-red-1720621718.png",
+    "$description": "80W Full Spectrum RGBMA LED 4" Fresnel with Zoom",
+    "$price": 0.0
+  },
   {
     "$id": "FUZE SFX",
     "$title": "FUZE SFX",
